@@ -32,10 +32,10 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/e7841b0c-3942-4f80-9bfe-581d18c1f6e7)
+![image](https://github.com/user-attachments/assets/0b917ba5-731a-4700-874f-4b1f432640ff)
 
-![image](https://github.com/user-attachments/assets/33e02eb9-4a7d-451f-a0c0-f36d36358c0e)
 
+![image](https://github.com/user-attachments/assets/59661c8f-c14f-4a86-b43a-a7cd900f0fb3)
 
 
 
@@ -48,7 +48,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/25b589c5-2fcf-448f-88ec-259dbd646799)
+![image](https://github.com/user-attachments/assets/660eecb8-3e39-4c61-82c7-6e8a06355985)
 
 
 
@@ -56,9 +56,11 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/072ac50f-4220-4aef-835f-dd2fa8e5e768)
+![image](https://github.com/user-attachments/assets/88e796b9-4eeb-4ebf-97e7-6f97e16c0529)
 
-![image](https://github.com/user-attachments/assets/e3cc55e4-d7d1-4ffa-a7b1-3d3a99dc34fc)
+
+![image](https://github.com/user-attachments/assets/601bc983-0580-4701-86f0-cc4dcd12f659)
+
 
 
 
